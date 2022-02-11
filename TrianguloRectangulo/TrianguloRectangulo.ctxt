@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TrianguloRectangulo
+comment1.params=cateto_a\ cateto_b
+comment1.target=TrianguloRectangulo(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TrianguloRectangulo\r\n
+comment2.params=
+comment2.target=void\ Datos()
+comment3.params=cateto_a\ cateto_b
+comment3.target=double\ \u00E1rea(double,\ double)
+comment3.text=\r\n\ Utilice\ \u00E9ste\ m\u00E9todo\ calcular\ el\ \u00E1rea\ de\ un\ tri\u00E1ngulo\ rect\u00E1ngulo.\r\n\ Puede\ utilizar\ n\u00FAmeros\ enteros\ y\ decimales.\r\n\ Coloque\ el\ valor\ del\ cateto\ a.\r\n\ Coloque\ el\ valor\ del\ cateto\ b.\r\n\ Pulse\ aceptar.\r\n
+comment4.params=cateto_a\ cateto_b
+comment4.target=double\ per\u00EDmetro(double,\ double)
+comment4.text=\r\n\ Utilice\ \u00E9ste\ m\u00E9todo\ calcular\ el\ per\u00EDmetro\ de\ un\ tri\u00E1ngulo\ rect\u00E1ngulo.\r\n\ Puede\ usar\ n\u00FAmeros\ enteros\ y\ decimales.\r\n\ Coloque\ el\ valor\ del\ cateto\ a.\r\n\ Coloque\ el\ valor\ del\ cateto\ b.\r\n\ Pulse\ aceptar.\r\n
+numComments=5
